@@ -95,4 +95,14 @@ python extract_answer.py
 ---
 
 ## Our method
-The training and evaluation code for our method is located in the `train_model` directory. Detailed instructions for training and evaluation will be added soon.
+The training and evaluation code for our method is located in the `train_model` directory. To run:
+```bash
+cd train_model
+```
+
+Run the script to train model:
+```bash
+python run.py --image_model "resnet" --is_ocr 0 --learning_rate 0.001 --num_epochs 20
+```
+
+The result will get a model file name ```model.pkl```.
