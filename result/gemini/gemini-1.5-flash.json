@@ -1,0 +1,30 @@
+{
+    "0": {
+        "questionId": "test_1",
+        "question": "Bộ dụng cụ như hình vẽ có thể dùng để thu khí nào sau đây ? <image_1>",
+        "options": "['A. H2.', 'B. NH3.', 'C. CH4.', 'D. Cl2.']",
+        "answer": "D",
+        "explaination": "Đáp án đúng là: DVì ống nghiệm ngửa nên khí thu được nặng hơn không khí→ chọn Cl2",
+        "subject": "Hóa học",
+        "grade": "Lớp 10",
+        "image": "test_1.png",
+        "caption": "",
+        "ocr": [],
+        "query": "Câu hỏi: Bộ dụng cụ như hình vẽ có thể dùng để thu khí nào sau đây ? <image_1>\nCác lựa chọn:\nA. H2.\nB. NH3.\nC. CH4.\nD. Cl2.\nDựa vào nội dung câu hỏi và nội dung trong bức ảnh hãy chọn đáp án đúng và giải thích bằng Tiếng Việt",
+        "response": "Đáp án đúng là **B. NH3**.\n\n**Giải thích:**\n\nBộ dụng cụ như hình vẽ là phương pháp thu khí bằng cách đẩy không khí. Ống nghiệm được úp ngược xuống, chứng tỏ khí thu được nhẹ hơn không khí. Trong các khí đã cho, chỉ có NH3 là khí nhẹ hơn không khí.\n\nCác khí còn lại:\n\n* H2: Nhẹ hơn không khí nhưng phải thu bằng cách đẩy nước vì nó tan trong nước.\n* CH4: Nhẹ hơn không khí nhưng phải thu bằng cách đẩy nước vì nó tan trong nước.\n* Cl2: Nặng hơn không khí nên không thể thu bằng cách đẩy không khí. \n\nVậy đáp án đúng là B. NH3."
+    },
+    "1": {
+        "questionId": "test_2",
+        "question": "Mô hình mô tả quá trình tạo liên kết hóa học sau đây phù hợp với xu hướng tạo liên kết hóa học của nguyên tử nào? <image_1>",
+        "options": "['A. Aluminium.', 'B. Nitrogen.', 'C. Phosphorus.', 'D. Oxygen.']",
+        "answer": "C",
+        "explaination": "Đáp án đúng là: C Theo mô hình mô tả ta thấy nguyên tử này có 15 electron và nhận thêm 3 electron để đạt lớp vỏ thỏa mãn quy tắc octet. Vậy nguyên tử này là phosphorus.",
+        "subject": "Hóa học",
+        "grade": "Lớp 10",
+        "image": "test_2.png",
+        "caption": "",
+        "ocr": [],
+        "query": "Câu hỏi: Mô hình mô tả quá trình tạo liên kết hóa học sau đây phù hợp với xu hướng tạo liên kết hóa học của nguyên tử nào? <image_1>\nCác lựa chọn:\nA. Aluminium.\nB. Nitrogen.\nC. Phosphorus.\nD. Oxygen.\nDựa vào nội dung câu hỏi và nội dung trong bức ảnh hãy chọn đáp án đúng và giải thích bằng Tiếng Việt",
+        "response": "**Đáp án: D. Oxygen**\n\n**Giải thích:**\n\nHình ảnh mô tả quá trình tạo liên kết hóa học của một nguyên tử có 6 electron ở lớp vỏ ngoài cùng. Nguyên tử này sẽ nhận thêm 2 electron để đạt cấu hình electron bền vững giống khí hiếm. \n\nTrong số các lựa chọn, Oxygen (O) có 6 electron ở lớp vỏ ngoài cùng và có xu hướng nhận thêm 2 electron để đạt cấu hình electron bền vững giống khí hiếm Neon (Ne).\n\nCác nguyên tử khác không phù hợp vì:\n\n* **Aluminium (Al)** có 3 electron ở lớp vỏ ngoài cùng và có xu hướng nhường 3 electron để đạt cấu hình electron bền vững.\n* **Nitrogen (N)** có 5 electron ở lớp vỏ ngoài cùng và có xu hướng nhận thêm 3 electron để đạt cấu hình electron bền vững.\n* **Phosphorus (P)** có 5 electron ở lớp vỏ ngoài cùng và có xu hướng nhận thêm 3 electron để đạt cấu hình electron bền vững."
+    }
+}
