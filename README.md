@@ -105,4 +105,4 @@ Run the script to train model:
 python run.py --image_model "resnet" --is_ocr 0 --learning_rate 0.001 --num_epochs 20
 ```
 
-The result will get a model file name ```model.pkl```.
+The result will get a model file name ```model.pkl```. To predict, using ```predict``` function in the ```run.py``` file.
