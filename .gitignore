@@ -1,0 +1,38 @@
+__pycache__/
+*pyc
+*.sh
+*.out
+*.txt
+# *.ipynb
+check.py
+checkpoints/
+run.sh
+run_lavy.sh
+*.ipynb
+count.py
+sgk_fewshot.py
+sgk_process.py
+LLaVA/
+gemini_api_key.py
+checkpoints/
+checkpoint/
+original_data/
+modified_data/
+dev_pairs.json
+new_new_sgk.json
+new_sgk.json
+pairs_train_new.json
+pairs.json
+test_pairs.json
+train_pairs.json
+updated_data.json
+data/
+extract_images/
+
+# Ignore everything inside prediction and result folders
+prediction/**
+result/**
+
+# But do not ignore the folders themselves
+!prediction/
+!result/
