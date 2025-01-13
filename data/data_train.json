@@ -1,0 +1,54 @@
+[
+    {
+        "questionId": "train_2",
+        "question": "Cho hình vẽ mô tả thí nghiệm điều chế Clo từ MnO2 và dung dịch HCl: <image_1> Các chất chứa trong bình (1) và bình (2) lần lượt là",
+        "option_A": "A. Dung dịch H2SO4 đặc và dung dịch NaCl",
+        "option_B": "B. Dung dịch NaCl và dung dịch H2SO4 đặc",
+        "option_C": "C. Dung dịch H2SO4 đặc và dung dịch AgNO3",
+        "option_D": "D. Dung dịch NaOH và dung dịch H2SO4 đặc",
+        "answer": "B",
+        "explaination": "Đáp án B",
+        "subject": "Hóa học",
+        "grade": "Lớp 10",
+        "image": "train_2.png"
+    },
+    {
+        "questionId": "train_3",
+        "question": "Trong tự nhiên Ne gồm 3 đồng vị bền: <image_1> Trung bình cứ 54 nguyên tử 21Ne sẽ có tương ứng bao nhiêu nguyên tử 20Ne ?",
+        "option_A": "A. 19946",
+        "option_B": "B. 18096",
+        "option_C": "C. 16246",
+        "option_D": "D. 1850",
+        "answer": "B",
+        "explaination": "Đáp án B Trung bình cứ 54 nguyên tử 21Ne thì có $ (54. 90,48)/0,27$ nguyên tử 20Ne",
+        "subject": "Hóa học",
+        "grade": "Lớp 10",
+        "image": "train_3.png"
+    },
+    {
+        "questionId": "train_4",
+        "question": "cho ion đơn nguyên tử X có điện tích 2+ có cấu tạo như hình vẽ <image_1> Vị trí của X trong bảng tuần hoàn là",
+        "option_A": "A. Ô số 10, chu kì 2, nhóm VIIIA.",
+        "option_B": "B. Ô số 12, chu kì 3, nhóm VIIIA.",
+        "option_C": "C. Ô số 12, chu kì 3, nhóm IIA.",
+        "option_D": "D. Ô số 10, chu kì 2, nhóm IIA.",
+        "answer": "C",
+        "explaination": "Đáp án",
+        "subject": "Hóa học",
+        "grade": "Lớp 10",
+        "image": "train_4.png"
+    },
+    {
+        "questionId": "train_5",
+        "question": "Cho phản ứng đốt cháy ethane: C2H6 (g) + \\(\\frac{7}{2}\\)O2 (g) 2CO2 (g) + 3H2O (l) Biến thiên enthalpy chuẩn của phản ứng đốt cháy ethane là Biết: <table>",
+        "option_A": "A. - 1559,7 (kJ).",
+        "option_B": "B. +1559,7 (kJ).",
+        "option_C": "C. - 1644,4 (kJ).",
+        "option_D": "D. +1644,4 (kJ).",
+        "answer": "A",
+        "explaination": "Đáp án đúng là: A Tổng nhiệt tạo thành các chất đầu là: \\(\\sum {{\\Delta _f}H_{298}^o(c{\\rm{d}}) = } \\,\\,{\\Delta _f}H_{298}^o({C_2}{H_6}(g)).1 + {\\Delta _f}H_{298}^o({O_2}(g)).\\frac{7}{2}\\)= (-84,7.1) + 0.\\(\\frac{7}{2}\\)= - 84,7 (kJ) Tổng nhiệt tạo thành các chất sản phẩm là: \\(\\sum {{\\Delta _f}} H_{298}^o(sp) = {\\Delta _f}H_{298}^o(C{O_2}(g)).2 + {\\Delta _f}H_{298}^o({H_2}O(l)).3\\) = (-393,5.2) + (-285,8.3) = - 1644,4 (kJ) ⇒ Biến thiên enthalpy của phản ứng: \\({\\Delta _r}H_{298}^o = \\sum {{\\Delta _f}H_{298}^o} (sp) - \\sum {{\\Delta _f}H_{298}^o} (cd)\\)= - 1559,7 (kJ)",
+        "subject": "Hóa học",
+        "grade": "Lớp 10",
+        "image": "train_5.png"
+    }
+]

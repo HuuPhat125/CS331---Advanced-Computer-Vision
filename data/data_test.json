@@ -1,0 +1,28 @@
+[
+    {
+        "questionId": "test_1",
+        "question": "Bộ dụng cụ như hình vẽ có thể dùng để thu khí nào sau đây ? <image>",
+        "option_A": "A. H2.",
+        "option_B": "B. NH3.",
+        "option_C": "C. CH4.",
+        "option_D": "D. Cl2.",
+        "answer": "D",
+        "explaination": "Đáp án đúng là: DVì ống nghiệm ngửa nên khí thu được nặng hơn không khí→ chọn Cl2",
+        "subject": "Hóa học",
+        "grade": "Lớp 10",
+        "image": "test_1.png"
+    },
+    {
+        "questionId": "test_2",
+        "question": "Mô hình mô tả quá trình tạo liên kết hóa học sau đây phù hợp với xu hướng tạo liên kết hóa học của nguyên tử nào? <image>",
+        "option_A": "A. Aluminium.",
+        "option_B": "B. Nitrogen.",
+        "option_C": "C. Phosphorus.",
+        "option_D": "D. Oxygen.",
+        "answer": "C",
+        "explaination": "Đáp án đúng là: C Theo mô hình mô tả ta thấy nguyên tử này có 15 electron và nhận thêm 3 electron để đạt lớp vỏ thỏa mãn quy tắc octet. Vậy nguyên tử này là phosphorus.",
+        "subject": "Hóa học",
+        "grade": "Lớp 10",
+        "image": "test_2.png"
+    }
+]

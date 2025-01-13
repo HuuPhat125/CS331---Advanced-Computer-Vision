@@ -1,0 +1,41 @@
+[
+    {
+        "questionId": "dev_1",
+        "question": "Cho giản đồ năng lượng của các phản ứng 1 – 5 như sau: <image_1> Số phản ứng toả nhiệt là",
+        "option_A": "A. 1.",
+        "option_B": "B. 2.",
+        "option_C": "C. 3.",
+        "option_D": "D. 4.",
+        "answer": "D",
+        "explaination": "Chọn đáp án D",
+        "subject": "Hóa học",
+        "grade": "Lớp 10",
+        "image": "dev_1.png"
+    },
+    {
+        "questionId": "dev_2",
+        "question": "Cho cân bằng hóa học (trong bình kín có dung tích không đổi): <image_1> Nhận xét nào sau đây là sai ?",
+        "option_A": "A. Khi cho vào hệ phản ứng một lượng NO2 thì cân bằng chuyển dịch theo chiều nghịch.",
+        "option_B": "B. Khi giảm áp suất chung của hệ phản ứng thì tỉ khối của hỗn hợp khí so với H2 giảm.",
+        "option_C": "C. Khi tăng nhiệt độ của hệ phản ứng thì tỉ khối của hỗn hợp khí so với H2 tăng.",
+        "option_D": "D. Khi hạ nhiệt độ của hệ phản ứng thì màu nâu đỏ nhạt dần.",
+        "answer": "A",
+        "explaination": "Đáp án C A đúng. Khi thêm NO2 thì phản ứng chuyển dich theo chiều nghịchB đúng. Khi giảm áp suất thì cân bằng chuyển dịch theo chiều tăng áp suất tức chiều số mol khí tăng -> KL mol giảmC sai vì tăng nhiệt độ phản ứng chuyển dịch theo chiều thu nhiệt tức chiều thuận -> Số mol khí tăng -> KL mol giảmD đúng vì giảm nhiệt độ phản ứng chuyển dịch theo chiều tỏa nhiệt tức chiều nghịch -> Màu nâu đỏ nhạt dầnĐáp án C",
+        "subject": "Hóa học",
+        "grade": "Lớp 10",
+        "image": "dev_2.png"
+    },
+    {
+        "questionId": "dev_3",
+        "question": "Cho hình vẽ mô tả thí nghiệm pha dung dịch axit X loãng bằng rót từ từ dung dịch axit đặc vào nước: <image_1> Hình vẽ trên minh họa nguyên tắc pha chế axit nào sau đây ?",
+        "option_A": "A. HCl.",
+        "option_B": "B. H2SO4.",
+        "option_C": "C. HNO3.",
+        "option_D": "D. H3PO4.",
+        "answer": "B",
+        "explaination": "Đáp án B H2SO4 tan vô hạn trong nước và tỏa nhiều nhiệt. Vì vậy khi pha loãng axit sunfuric đặc cần phải rót từ từ axit vào nước và khuấy nhẹ bằng đũa thủy tinh mà không được làm ngược lại. Vậy X là H2SO4",
+        "subject": "Hóa học",
+        "grade": "Lớp 10",
+        "image": "dev_3.png"
+    }
+]
