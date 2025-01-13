@@ -26,13 +26,22 @@ pairs.json
 test_pairs.json
 train_pairs.json
 updated_data.json
-data/
-extract_images/
+# data/
+# data/images/
+# data/texts/
+# images.zip
+# extract_images/
 
-# Ignore everything inside prediction and result folders
-prediction/**
-result/**
-
-# But do not ignore the folders themselves
-!prediction/
-!result/
+# gemini/
+grok/
+internlm/
+internvl/
+Lavy/
+PaliGemma/
+phoGPT
+qwen2
+qwen2math
+ura_llama
+vinallama
+vintern
+vistral_fixed
