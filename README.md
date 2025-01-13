@@ -102,7 +102,10 @@ cd train_model
 
 Run the script to train model:
 ```bash
-python run.py --image_model "resnet" --is_ocr 0 --learning_rate 0.001 --num_epochs 20
+python run.py --image_model <image_model> --is_ocr <is_ocr> --learning_rate <learning_rate> --num_epochs <num_epochs>
 ```
+
+```image_model```: can use in ```["resnet, "resnext", "vit"]```.
+```is_ocr```: boolean value.
 
 The result will get a model file name ```model.pkl```. To predict, using ```predict``` function in the ```run.py``` file.
