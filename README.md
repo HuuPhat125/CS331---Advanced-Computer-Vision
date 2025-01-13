@@ -11,7 +11,7 @@ This repository contains the final project for the **CS331 - Advanced Computer V
 | --- | ---------------------- | ---------- |
 | 1   | Đặng Hữu Phát         | 22521065   |
 | 2   | Phan Hoàng Phước      | 22521156   |
-| 3   | Nguyễn Hữu Hoàng Long | 22521090   |
+| 3   | Nguyễn Hữu Hoàng Long | 22520817  |
 
 ---
 
