@@ -109,3 +109,6 @@ python run.py --image_model <image_model> --is_ocr <is_ocr> --learning_rate <lea
 ```is_ocr```: boolean value.
 
 The result will get a model file name ```model.pkl```. To predict, using ```predict``` function in the ```run.py``` file.
+
+## Run Demo
+To run demo appilcation, type ```cd DemoCS331``` in terminal, then run ```streamlit run app.py```.
